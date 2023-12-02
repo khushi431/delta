@@ -1,2 +1,2 @@
 # delta
-This is github class
+This is github class.
